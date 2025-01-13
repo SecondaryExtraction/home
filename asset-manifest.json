@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SecondaryExtraction/home.git/static/css/main.b58a14e2.css",
+    "main.js": "/SecondaryExtraction/home.git/static/js/main.add25256.js",
+    "static/js/453.358339d1.chunk.js": "/SecondaryExtraction/home.git/static/js/453.358339d1.chunk.js",
+    "index.html": "/SecondaryExtraction/home.git/index.html",
+    "main.b58a14e2.css.map": "/SecondaryExtraction/home.git/static/css/main.b58a14e2.css.map",
+    "main.add25256.js.map": "/SecondaryExtraction/home.git/static/js/main.add25256.js.map",
+    "453.358339d1.chunk.js.map": "/SecondaryExtraction/home.git/static/js/453.358339d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b58a14e2.css",
+    "static/js/main.add25256.js"
+  ]
+}
